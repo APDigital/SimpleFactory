@@ -1,0 +1,7 @@
+c:\users\apearson\source\repos\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+c:\users\apearson\source\repos\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe
+c:\users\apearson\source\repos\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.pdb
+c:\users\apearson\source\repos\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
+c:\users\apearson\source\repos\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.csproj.CoreCompileInputs.cache
+c:\users\apearson\source\repos\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+c:\users\apearson\source\repos\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb
